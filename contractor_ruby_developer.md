@@ -2,8 +2,8 @@
 ### Ruby Contractor
 London, UK
 
-Role: **Ruby Developer**  
-Job type: **Contract (1-2 weeks)**  
+Role: **Developer**  
+Job type: **Contract (2-3 weeks)**  
 
 **About Wearisma**
 
@@ -11,7 +11,12 @@ Wearisma partners with global premium and luxury brands and agencies to create m
 
 **Job description**
 
-Social platform integration
+We are looking for some help to build an integration with social platform. You will have to build:
+
+* Authentication with social platform
+* Research and design data model to store data retrieved from social platform
+* Create a scheduled worker which will sync the data
+* Front end pages to show data to the users
 
 **How to apply**
 
