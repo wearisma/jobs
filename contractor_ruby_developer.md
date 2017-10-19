@@ -18,6 +18,12 @@ We are looking for some help to build an integration with social platform. You w
 * Create a scheduled worker which will sync the data
 * Front end pages to show data to the users
 
+Tech stack:
+
+* Ruby
+* MongoDb
+* HTML5/CSS3
+
 **How to apply**
 
 Please send your CV to [jobs@wearisma.com](mailto:jobs@wearisma.com)
