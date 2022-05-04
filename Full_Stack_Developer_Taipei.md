@@ -23,9 +23,9 @@ We are looking for passionate developers who care about software excellence. You
 
 The Full-Stack Developer will serve a vital role in designing and implementing new features and supporting existing ones.
 
-You will work both independently and in the team to get features completed, working on all parts of the stack designing data models, and algorithms and creating UIs.
+You will work both independently and in the team to get features completed, working on all parts of the stack designing data models, algorithms and creating UIs.
 
-Our tech stack includes MongoDB, Ruby, Elasticsearch, Javascript and Python and Vue. We have integrations with many social platforms and sync with a massive amount of data.
+Our tech stack includes MongoDB, Ruby, Elasticsearch, Javascript, Python and Vue. We have integrations with many social platforms and sync with a massive amount of data.
 
 We are also constantly experimenting with AI and data analysis to create useful insights for our users. The most successful experiments get integrated into the product.
 
