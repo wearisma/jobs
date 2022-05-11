@@ -62,7 +62,7 @@ To succeed as a full stack developer, you should be focused on building a better
 
 ## Benefits
 
-- All-hands meeting aboard according to company policy ✈️
+- All-hands meeting abroad according to company policy ✈️
 - Year-end bonus 🧨
 - 15 days of annual leave 🏝
 - Co-working space environment ☕️
